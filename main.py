@@ -24,9 +24,10 @@ def start():
               randomBool[y].append(True)
           else:
               randomBool[y].append(False)
-
-
-#sojipo ajs;koojihhasuiio h;asjioasddfoiaidhoiiosaiof
+              
+              
+              
+#copy must be implemented in the death section for it to work
 
 
             
